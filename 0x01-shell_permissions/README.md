@@ -7,3 +7,4 @@
 6. Multiple permissions
 7. everybody
 8. JamesBond
+9. JohDoe
