@@ -8,3 +8,4 @@
 7. everybody
 8. JamesBond
 9. JohDoe
+10. permissions
