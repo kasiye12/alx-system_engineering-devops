@@ -1,2 +1,2 @@
 #!/bib/bash
-Hello Worlde
+echo "Hellow World"
