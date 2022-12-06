@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -r School=etc/passwd
+var BEST="School"
